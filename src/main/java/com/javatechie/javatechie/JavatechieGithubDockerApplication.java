@@ -8,7 +8,7 @@ public class JavatechieGithubDockerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavatechieGithubDockerApplication.class, args);
-		System.out.println("test 123 by muttu update123 ");
+		System.out.println("test 123 by muttu update123 update ");
 	}
 
 }
